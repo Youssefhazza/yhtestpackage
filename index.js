@@ -12,4 +12,4 @@ const calcDigest = (PublicKey, PrivateKey, messageParams) => {
     return signature;
   };
 
-  module.exports={sayHi,calcDigest};
+  export default {sayHi,calcDigest};
