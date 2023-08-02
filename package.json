@@ -16,6 +16,9 @@
   ],
   "author": "Youssef Hazzaa",
   "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
   "bugs": {
     "url": "https://github.com/Youssefhazza/yhtestpackage/issues"
   },
