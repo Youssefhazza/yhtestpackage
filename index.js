@@ -1,4 +1,4 @@
-import { HmacSHA256, enc } from 'crypto-js';
+import CryptoJS from "crypto-js";
 
 const sayHi=()=>{
 
