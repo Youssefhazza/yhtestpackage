@@ -1,5 +1,6 @@
 {
   "name": "yhtestpackage",
+  "type": "module",
   "version": "1.0.0",
   "description": "this is for testing how to create and publish an NPM package",
   "main": "index.js",
