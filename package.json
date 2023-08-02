@@ -1,0 +1,22 @@
+{
+  "name": "yhtestpackage",
+  "version": "1.0.0",
+  "description": "this is for testing how to create and publish an NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youssefhazza/yhtestpackage.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Youssef Hazzaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Youssefhazza/yhtestpackage/issues"
+  },
+  "homepage": "https://github.com/Youssefhazza/yhtestpackage#readme"
+}
