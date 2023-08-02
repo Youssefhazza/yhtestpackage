@@ -1,6 +1,5 @@
-const helloNpm = require('first-hello-npm')
+const CryptoJS = require('crypto-js')
 
-console.log(helloNpm())
 const sayHi=()=>{
 
     return "i love node js"
